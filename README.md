@@ -45,3 +45,4 @@ My name is Brendan, This is an alt for school my main is @1Brenny1
 
 ## 🍔 Food
 ![McDs](https://img.shields.io/badge/McDonald's-FBC817?style=for-the-badge&logo=McDonald's&logoColor=white)
+![BurgetKing](https://img.shields.io/badge/Burger%20King-D62300?style=for-the-badge&logo=Burger%20King&logoColor=white)
